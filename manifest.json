@@ -1,6 +1,6 @@
 {
   "name": "FastCAAMap",
-  "short_name": "GPS Map",
+  "short_name": "FastCAAMap",
   "description": "An offline capable map viewer with GPS integration",
   "start_url": "index.html",
   "display": "standalone",
